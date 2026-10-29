@@ -1,6 +1,6 @@
 # Marble Privacy Policy
 
-**Last updated: October 24, 2026**
+**Last updated: October 29, 2026**
 
 Marble is an iPhone and iPad app for recording spending allowances and savings goals. It is developed by Alexander Weichart ("I", "me"). Marble records virtual money: it does not connect to a bank, read financial accounts, or transfer real money.
 
@@ -31,6 +31,14 @@ Leaving a jar or removing a participant revokes that participant's access, but p
 With tilt movement enabled, Marble reads device-motion samples to animate its glass jars and marbles. These samples are processed on the device and are not uploaded by Marble. You can disable tilt movement in Settings. Haptics use supported device hardware and do not record personal information. Playing with the marbles never changes recorded money.
 
 Marble does not request access to your location, contacts, photos, camera, microphone, or bank accounts for its current features.
+
+## Notifications
+
+Notifications are optional. Marble asks for permission only after you share a jar. When synchronized activity from other participants arrives, Marble creates the notification on your device. Notifications contain only general text, such as "New activity in a shared jar." They do not include amounts, entry titles, or people's names. Marble does not operate a notification server. Apple's iCloud may send silent background signals so that Marble can synchronize. You can turn notification types off in Marble's Settings or in iOS Settings.
+
+## Siri and Shortcuts
+
+Marble offers Siri and Shortcuts actions, for example to log an expense or check a jar. When you use one, Apple passes your request to Marble on your device. Marble acts only on your own entries, and it asks you to confirm before it records money. These actions require an unlocked device. Siri may speak or display results, including balances. Apple processes Siri requests under its own privacy policy, and Marble does not send them to me.
 
 ## Purchases
 
